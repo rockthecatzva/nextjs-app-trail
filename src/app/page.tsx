@@ -16,7 +16,6 @@ export default function Home() {
           loading="lazy"
           id={"map"}
           // allowfullscreen
-          src="https://www.google.com/maps/embed/v1/view?zoom=7&center=39.0458%2C-76.6413&key=AIzaSyBtwr6-O2UG7XA-LzKDsSAQP7UakX3lqlI"
         ></iframe>
         <Map /> */}
         <Svg />
