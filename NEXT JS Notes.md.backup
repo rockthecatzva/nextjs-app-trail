@@ -46,5 +46,4 @@
 - If the page has some JavaScript client-side based content, the URLs might be added to a Render Queue. Render Queue is more costly for Google as it needs to use more resources to render JavaScript and therefore URLs rendered are a smaller percentage over the total pages out there on the internet. 
 
 
-- sitemap (xml or generated .ts)
-- robots (.txt or generated .ts)
+- sitemap (xml or .ts gener)
